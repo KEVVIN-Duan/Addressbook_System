@@ -1,3 +1,4 @@
+// 这是一次尝试
 #include <iostream>
 #include <string>
 #define MAX 1000//通讯录上限1000人
